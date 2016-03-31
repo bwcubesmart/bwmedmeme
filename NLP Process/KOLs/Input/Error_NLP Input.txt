@@ -1,0 +1,89 @@
+﻿PresentationID|Seq|Year|Source|First Name|Middle|Last Name|Organization|City|State|Country|Email|CoAuthor
+12933433|1|02/04/2015|Medmeme|Shane W.||Adams|SFSU, 37 Reed Blvd #7|Mill Valley, CA 94941||||Kim_Y.:Wright_C.W.:Lobdell_D.T.:Bowler_R.M.
+12896172|1|02/02/2015|Medmeme|A.||Aekka|Michigan State University, College Of Human Medicine|Lansing, MI||United States||Hollis_M. V.:Boudiab_E. M.:Laput_G. P.:Purohit_H.:Vyas_A. K.:Vyas_D.
+12895117|1|02/21/2015|Medmeme|Shubhangi||Agarwal|Arizona State Univ.|||United States||Vidya Shankar_Rohini:Inge_Landon J.:Kodibagkar_Vikram D.
+12895183|1|02/21/2015|Medmeme|Faranak||Aghaei|The Univ. of Oklahoma|||United States||Tan_Maxine:Zheng_Bin
+12917331|1|02/28/2015|Medmeme|F.||Ahmed|University of Colorado School of Medicine|Superior, CO||United States||Gupta_R.
+12936110|1|03/23/2015|Medmeme|Tena||Alonzo|Research & Dementia Programs, Beatitudes Campus of Care|||||Cisek_Edward:Downes_Deirdre:Harper_Karen:Herel_Robert:Wyatt_Ann
+12933546|1|02/04/2015|Medmeme|Michael||Alosco|Kent State University, 4710 Waterford Circle|Stow, OH 44224||||Spitznagel_M.:Cohen_R.A.:Sweet_L.H.:Hayes_S.M.:Josephson_R.:Hughes_J.:Gunstad_J.
+12885780|1|01/15/2015|Medmeme|Adam||Amlani|BC Cancer Agency|Vancouver, BC||Canada||Kumar_Aalok:Cheung_Winson Y.
+12924566|1|12/02/2012|Medmeme|Sally||Amos|BC Cancer Agency|Victoria||Canada||de Leeuw_Ron:Kuklev_Nikita:Kakal_Juzer:Babinsky_Sindy:Milne_Katy:Kost_Sara:Freeman_Doug:Holt_Rob:Watson_Peter:Nelson_Brad
+12924843|1|10/16/2012|Medmeme|Abegail||Andaya|United States Military Cancer Institute, Cancer Center, Walter Reed National Military Medical Center|Bethesda, MD||||Enewold_Lindsey:Zahm_Shelia H.:Shriver_Craig D.:Warren_Joan:Stojadinovic_Alexander:McGlynn_Katherine:Zhu_Kangmin
+12941400|1|02/18/2015|Medmeme|Kelsey||Anderson|Oklahoma State University, Physiology|||||
+12942334|1|02/05/2015|Medmeme|Fadi||Aramouni|KANSAS STATE UNIVERSITY|||||
+12933186|1|02/04/2015|Medmeme|Peter||Arnett|Psychology, Penn State University, 352 Moore Building|University Park, PA 16802||||Merritt_V.C.:Meyer_J.:Cadden_M.:Ukueberuwa_D.
+12931800|1|02/19/2015|Medmeme|J.||Bal|University of Alberta, Gastroenterology|Edmonton||Canada||Foshaug_R.:Ambrosio_L.:Kroeker_K.I.:Dieleman_L.:Halloran_B.:Fedorak_R.N.:Huang_V.W.
+12885905|1|01/15/2015|Medmeme|Ashley||Baldwin|Western Regional Medical Center, Cancer Treatment Centers of America|Goodyear, AZ||||Kundranda_Madappa N.:Todd_Eric:Whitehead_Robert P.:Winston_Rachel:Weber_Jeffery:Weitz_David J:Kelly_Melinda:Kachaamy_Toufic
+12922025|1|02/04/2015|Medmeme|Nick||Bansback|University of British Columbia/ Arthritis Research Centre of Canada|Vancouver||||Lacaille_Diane:Shojania_Kam:Guh_Daphne:Anis_Aslam
+12894769|1|02/12/2015|Medmeme|Rachelle M.||Bassen|Biology, New Mexico State University|Las Cruces, NM||||
+12922433|1|12/18/2014|Medmeme|Ali||Bayram|Firat University Elazig High School of Health Sciences|||Turkey||Yiğiter_Remzi
+12920717|1|10/27/2012|Medmeme|Eric||Belasco|Montana State University|Bozeman, MT||||Wilkes_Ethan:Pence_Barbara
+12920158|1|09/18/2013|Medmeme|Jimmy||Belotte|Wayne State University|Detroit, MI||||Fletcher_Nicole:Awonuga_Awoniyi:Alexis_Mitchell:Abu-soud_Husam:Diamond_Michael:Saed_Mohammed:Saed_Ghassan
+12908114|1|12/05/2014|Medmeme|B.||Binjawadagi|Food Animal Health Research Program (FAHRP), OARDC, The Ohio State University, Wooster OH 44691|||||Longchao_Z.:Dhakal_S.:Hiremath_J.:Ouyang_K.:Shyu_B.:Torrelles_J.B.:Jackwood_D.:Fang_Y.:Renukaradhya_G.J.
+12931768|1|02/19/2015|Medmeme|K.||Boland|St Vincent's University Hospital, Department of Gastroenterology|Dublin 4||Ireland||Kelly_O.:Keegan_D.:Sheahan_K.:Mulcahy_H.:Cullen_G.:Doherty_G.A.
+12936455|1|03/23/2015|Medmeme|Kenneth||Brummel-Smith|Florida State University College of Medicine|||||Doyle_Patrick:Fazio_Sam:Greenlee_Kathy:Love_Karen:Maslow_Katie:Mast_Benjamin:Morhardt_Darby:Ortigara_Anna:Zeisel_John
+12900435|1|09/03/2014|Medmeme|Alison||Burgess|Sunnybrook Research Institute|||Canada||Dubey_Sonam:Aubert_Isabelle:Hynynen_Kullervo
+12895115|1|02/21/2015|Medmeme|Kunlin||Cao|GE Global Research|||United States||Bhagalia_Roshni:Sood_Anup:Brogi_Edi:Mellinghoff_Ingo K.:Larson_Steven M.
+12921920|1|02/04/2015|Medmeme|Erin||Carruthers|Arthritis Research Centre of Canada|Vancouver||||Osaimi_Noura AL:Goldsmith_Charles:Adam_Paul:Lacaille_Diane
+12909778|1|11/10/2013|Medmeme|Nani||Carvalho|Universidade Federal Do Amazonas, UFAM|AM||Brazil||Siqueira_Ivens:Felipe Cruz Filho_Raimundo
+12895243|1|02/21/2015|Medmeme|Juan J.||Cerrolaza|Children's National Medical Ctr.|||United States||Peng_Jennifer Q.:Safdar_Nabile M.:Conklin_Laurie:Sze_Raymond W.:George Linguraru_Marius
+12895235|1|02/21/2015|Medmeme|Baishali||Chaudhury|Univ. of South Florida|||United States||Zhou_Mu:Goldgof_Dmitry B.:Hall_Lawrence O.:Gatenby_Robert A.:Gillies_Robert J.:Drukteinis_Jennifer S.
+12922721|1|04/09/2014|Medmeme|C.||Cheeseman|Department of Physiology, University of Alberta|Edmonton, AB T6G 2H7||Canada||O'Neill_D.:Wong_K.:Long_W.
+12920065|1|09/18/2013|Medmeme|Georgina||Cheng|University of Colorado Anschutz Medical Campus|Aurora, CO||||Behbakht_Kian:Spillman_Monique A.
+12932529|1|10/16/2014|Medmeme|Curtis||Cooper|The Ottawa Hospital-General Campus|Ottawa ON||||
+12936619|1|02/11/2015|Medmeme|Deborah||Covington|Bone Marrow Transplant, UNC Hospitals|Chapel Hill, NC||||Talbert_Gayl:Hinshaw_Betty:Odell_Patricia:Quigley_Wendy:Tye_Martha:Stinson_Paula:Elizabeth Sharf_S.:Rao_Kamakshi V.:Shea_Thomas C.
+12920681|1|10/27/2012|Medmeme|Simon||Craddock Lee|UT Southwestern Harold C. Simmons Cancer Center|Dallas, TX||||Wiebe_Deborah J.:Sugg Skinner_Celette
+12895501|1|02/21/2015|Medmeme|Madelaine||Daianu|Institute for Neuroimaging and Informatics|||United States||Jahanshad_Neda:Mendez_Mario F.:Bartzokis_George:Jimenez_Elvira E.:Thompson_Paul M.
+12920250|1|01/20/2013|Medmeme|Tuyen T.||Dang|UT Southwestern Medical Center|Dallas, TX||||Pearson_Gray W.
+12895300|1|02/21/2015|Medmeme|Shusil||Dangi|Rochester Institute of Technology|||United States||Ben-Zikri_Yehuda K.:Schwarz_Karl Q.:Cahill_Nathan:Linte_Cristian A.
+12919902|1|10/03/2013|Medmeme|Columba||de la Parra|University of Puerto Rico Medical Sciences Campus|San Juan, PR||||Castillo-Pichardo_Linette:Cubano_Luis A.:Calin_George A.:Dharmawardhane_Suranganie
+12936778|1|02/11/2015|Medmeme|Jocelyn||De Yao|Western Pennsylvania Cancer Institute, Allegheny Health Network|Pittsburgh, PA||||Sadashiv_Santhosh:Berteotti_Gina:Sahovic_Entezam A:Lister_John
+12895334|1|02/21/2015|Medmeme|Salam||Dhou|Harvard Medical School|||United States||Hurwitz_Martina:Mishra_Pankaj:Lewis_John
+12921968|1|02/04/2015|Medmeme|Lihi||Eder|Toronto Western Hospital|Toronto||||Haddad_Amir:Lee_Ker-Ai:Rosen_Cheryl:Chandran_Vinod:Cook_Richard:Gladman_Dafna
+12940492|1|08/30/2014|Medmeme|Iman||Ehsan|NSHM College of Pharmaceutical Technology, NSHM Knowledge Campus, Kolkata Group of Institutions, 124, B.L. Saha Road|Kolkata-700082||||Biswas Majee_Sutapa
+12895252|1|02/21/2015|Medmeme|Nastaran||Emaminejad|The Univ. of Oklahoma|||United States||Qian_Wei:Kang_Yan:Guan_Yubao:Zheng_Bin
+12921884|1|02/04/2015|Medmeme|Paul||Emery|University of Leeds|Leeds||||Burmester_Gerd:Bykerk_Vivian:Combe_Bernard:Karyekar_Chetan:Furst_Daniel:Huizinga_Tom
+12924802|1|10/16/2012|Medmeme|Jeffery||Fan|Western University of Health Sciences|Pomona, CA||||Liu_Mandy:Wang_Zhijun:Zuo_Zhong:Chow_Moses:Huang_Ying
+12909978|1|10/16/2014|Medmeme|Chee-Mun||Fang|School of Pharmacy, Faculty of Science, The University of Nottingham Malaysia Campus|Selangor||Malaysia||
+12891618|1|10/27/2014|Medmeme|G.||Fiscon|Institute for Systems Analysis and Computer Science, National Research Council|00185-Rome||||Weitschek_E.:De Cola_M.C.:De Salvo_S.:Bramanti_P.:Felici_G.
+12895027|1|02/21/2015|Medmeme|Katelyn M.||Flint|Vanderbilt Univ.|||United States||Weis_Jared A.:Yankeelov_Thomas E.:Miga_Michael I.
+12907369|1|02/19/2015|Medmeme|J||Gass|Women and Infants Hospial|||United States||Pesek_S:Onstad_M:Fogarty_S:Stuckey_A:Edmonson_D:Raker_C
+12893627|1|12/09/2014|Medmeme|C||Gavegnano|Veterans Affairs Medical Center|Decatur GA 30033||United States||Dupuy_F:Brehm_J:Hurwitz_SJ:Sekaly_RP:Schinazi_RF
+12895279|1|02/21/2015|Medmeme|Marios A.||Gavrielides|U.S. Food and Drug Administration|||United States||Gallas_Brandon:Hewitt_Stephen M.
+12921898|1|02/04/2015|Medmeme|Dafna||Gladman|Toronto Western Hospital|Toronto||||Kavanaugh_Arthur:Mease_Philip:Adebajo_Adewale:Gomez-Reino_Juan:Hall_Stephen:Lespessailles_Eric:Schett_Georg:Shah_Kamal:Hu_ChiaChi:Stevens_Randall:Wollenhaupt_Jürgen
+12895396|1|02/21/2015|Medmeme|Lars J.||Grimm|Duke Univ.|||United States||Zhang_Jing:Johnson_Karen:Lo_Joseph Y.:Mazurowski_Maciej A.
+12893195|1|01/24/2015|Medmeme|Markus||Gschwind|Functional Brain Mapping Laboratory, Department of Neuroscience, Biotech Campus, University of Geneva|Geneva||Switzerland||Tomescu_Miralena I.:Hardmeier_Martin:Van de Ville_Dimitri:Fuhr_Peter:Michel_Christoph:Seeck_Margitta
+12920295|1|01/20/2013|Medmeme|Melisa J.||Hamilton|British Columbia Cancer Agency|Vancouver, BC||Canada||Bosiljcic_Momir:Harbourne_Bryant T.:Le Pard_Nancy E.:Halvorsen_Elizabeth C.:Kim_Ada Y.:Banath_Judit P.:Krystal_Gerald:Bennewith_Kevin L.
+12893580|1|11/21/2013|Medmeme|Dusan||Holub|Lekarska fakulta UP, UMTM|Olomouc||Ceska republika||Dzubak_Petr:Hajduch_Marian
+12899735|1|09/03/2014|Medmeme|Lingyun||Huang|Philips Research China|||China||Zhao_Xihai:Huang_Manwei:Luo_Jianwen
+12910808|1|05/17/2013|Medmeme|Ryan D.||Huff|Michael Smith Genome Sciences Centre, BC Cancer Agency|Vancouver, BC||Canada||Mendez-Lago_Maria:Morin_Ryan D.:Scott_David W.:Connors_Joseph M.:Gascoyne_Randy D.:Marra_Marco M.
+12891355|1|11/14/2014|Medmeme|K.||Hutchinson|NCBES, National University of Ireland|Galway||Ireland||Kerley_C.:Elnazir_B.:Couglan_D.:Greally_P.:Rochev_Y:Faul_J. L.
+12909966|1|08/26/2013|Medmeme|M.||Jezovicova|Institute of Medical Chemistry, Biochemistry and Clinical Biochemistry, Faculty of Medicine, Comenius University|Bratislava||Slovak Republic||Ďurackova_Z.:Misľanova_C.:Nagyova_Z.:Muchova_J.
+12895555|1|02/21/2015|Medmeme|Wei||Ju|Soochow Univ.|||China||Xiang_Dehui:Zhang_Bin:Chen_Xinjian
+12899517|1|09/19/2013|Medmeme|M.||Kakeda|Department of Dermatology, Mie University Graduate School of Medicine|Tsu, Mie||||Arock_M:Schlapbach_C:Yawalkar_N.
+12914048|1|02/02/2015|Medmeme|Manijeh||Kamyar|University of Utah, Maternal Fetal Medicine|Salt Lake City, UT||||Varner_Michael:Clark_Erin
+12914524|1|02/02/2015|Medmeme|Manijeh||Kamyar|University of Utah, Maternal Fetal Medicine|Salt Lake City, UT||||Bardsley_Tyler:Korgenski_Kent:Clark_Erin
+12895336|1|02/21/2015|Medmeme|Elham||Karami|Imaging Research Labs., Robarts Research Institute|||Canada||Lee_Ting-Yim:Samani_Abbas
+12924624|1|12/02/2012|Medmeme|Sara E.F.||Kost|Trev and Joyce Deeley Research Centre, BC Cancer Agency|Victoria, BC||Canada||de Leeuw_Ronald J.:Nelson_Brad H.
+12885362|1|10/07/2014|Medmeme|G||Kovac|Slovak Medical School, Institute of Laboratory Medicine|Bratislava||Slovak Republic||Porubenova_A
+12921847|1|02/04/2015|Medmeme|Diane||Lacaille|University of British Columbia/ Arthritis Research Centre of Canada|Richmond||||Lipson_Rachel:Thompson_Darby
+12922117|1|01/31/2015|Medmeme|Sunggeun||Lee|Montefiore Medical Center, Wakefield Campus|Bronx, NY||United States||Olivo Gant_Arie:Katikaneni_Mahdavi
+12920286|1|01/20/2013|Medmeme|Yonghun||Lee|Case Western Reserve University|Cleveland, OH||||Schiemann_William P.
+12884512|1|06/10/2014|Medmeme|A||Leszczynska|Regenerative Medicine Institute, National University of Ireland|Galway||Ireland||O'Doherty_A:Farrell_E:O'brien_F:O'brien_T:Murphy_M
+12921931|1|02/04/2015|Medmeme|Marina||Machado|McGill University/Federal University of Minas Gerais|Montreal||||Moura_Cristiano:Bernatsky_Sasha:Rahme_Elham:Acurcio_Francisco
+12910965|1|01/15/2015|Medmeme|J.||Manuel Casas|University of California|Santa Barbara||||Vazquez_Luis
+12933478|1|02/04/2015|Medmeme|Lannee||Nguyen|Psychology, University of California, 4926 W. Crystal Lane|San Diego, Santa Ana, CA 92704||||Pirogovsky Turk_E.:Burke_M.M.:Fong_C.H.:Litvan_I.:Lessig_S.:Song_D.:Filoteo_V.:Schiehser_D.M.
+12893938|1|11/26/2014|Medmeme|Nootchanard||Noiket|Department of Biotechnology, Faculty of Engineering and Industrial Technology, Silpakorn University, Sanamchandra palace campus|Nakornpathom 73000||Thailand||Boonthip_Thanawat:Riangwong_Kanamon
+12942392|1|08/25/2014|Medmeme|Aykut||Ozgür|Department of Bioengineering, Gaziosmanpaşa University|||Turkey||Koca_Irfan:Gümüş_Mehmet:Tutar_Yusuf
+12943530|1|02/19/2015|Medmeme|Cynthia||Pietras|Western Michigan University|||||Peterson_Stephanie:Frieder_Jessica:Ross_Denise
+12933022|1|02/04/2015|Medmeme|David M.||Scarisbrick|Neuropsychology Lab, Keck School of Medicine of USC, 425 N. Oklahoma Ave., Apt 2117|Oklahoma City, OK 73104||||Logue_E.:Thaler_N.S.:Copeland_C.T.:Hoffmeister_J.:Adams_R.:Scott_J.
+12924532|1|12/02/2012|Medmeme|Trisha R.||Sippel|University of Colorado Anschutz Medical Campus|Aurora, CO||||Russell_Rae:Ung_Timothy:Klaassen_Marci:Waziri_Allen
+12931207|1|01/01/2015|Medmeme|Thaiza F. M.||Souza|Centro de Ciências Naturais e Humanas, Universidade Federal do ABC|||Brazil||Ribeiro_Anderson O.:Cerchiaro_Giselle
+12932071|1|02/19/2015|Medmeme|V.||Sucha|Faculty of Medicine, Comenius University, 1st Department of Internal Medicine|Bratislava||Slovak Republic||Kadleckova_B.:Repakova_B.:Jurgos_L.:Kinova_S.:Zelinkova_Z.
+12892432|1|05/22/2014|Medmeme|H||Tlaskalová-Hogenová|Institute of Microbiology, Academy of Sciences of the Czech Republic|Prague||Czech Republic||Kokešová_A:Coufal_Š:Hansen_C:Štěpánková_R.:Hudcovic_T:Klimešová_K:Kverka_M:Zákostelská_Z:Hrnčíř_T:Kozáková_H:Schwarzer_M:Rossmann_P
+12940244|1|02/23/2015|Medmeme|Michele||Tringali|HTA PROGRAM, DIREZIONE GENERALE SALUTE, REGIONE LOMBARDIA|||Italy||Gutiérrez-Ibarluzea_Iñaki:Keeling_Nanna:Børlum Kristensen_Finn
+12931833|1|02/19/2015|Medmeme|A.||Variola|Sacro Cuore Don Calabria Negrar Hospital, Multispecialistic Centre for Recto-Perineal Diseases (IBD Unit), Department of Gastroenterology|Negrar (VR)||Italy||Fortuna_M.:Montanari_R.:Castelli_P.:Barugola_G.:Zamboni_G.:Ruffo_G.:Bocus_P.:Geccherle_A.
+12941115|1|02/11/2015|Medmeme|B. C.||Wang|Elysia Group, LLC, Province of China|Taipei||Taiwan||Chen_Y.:Furnback_W.:Yang_R.
+12931949|1|02/19/2015|Medmeme|K.-C.||Wu|Xijing Hospital of the Fourth Military Medical University, Gastroenterology|Xi'an||China||Ran_Z.H.:Gao_X.:Chen_M.:Zhong_J.:Sheng_J.-Q.:Kamm_M.A.:Travis_S.:Robinson_A.M.:Wallace_K.:Shapiro_M.:Li_Y.:Thakkar_R.B.
+12931713|1|02/19/2015|Medmeme|Z.||Zelinkova|IBD Center-Thalion|Bratislava||Slovak Republic||Kadleckova_B.:Repakova_B.
+12941165|1|02/11/2015|Medmeme|B.||Zulfikar|The Haemophilia Society of Turkey, Department of Pediatric Hematology and Oncology|Istanbul||Turkey||Ersen_A.:Koc_B.:Atalar_A. C.
